@@ -11,6 +11,7 @@ Postman 에서 admin / 1234 로 join(회원가입) POST요청
 HttpStatus 200 Ok
 
 ![image](https://github.com/sevin98/SpringSecurity-JWT-practice/assets/117634128/ad26f3f6-0839-4f01-9442-23cb27b6ed13)
+
 database 에 Userid, Username, user_Role, 암호화된 password 가 삽입됨
 
 ___
